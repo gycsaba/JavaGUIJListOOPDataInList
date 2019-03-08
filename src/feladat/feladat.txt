@@ -1,0 +1,9 @@
+
+1. Készítsen AbstractListModel származtatásával osztályt, amely alkalmas a Diák adatok JList-ben való megjelenítésére
+2. Valósítsa meg a diákok adatainak módosításának lehetőségét (új diák adata, diák adatának törlése, diák adatának módosítása)
+3. Valósítsa meg a formon a következő tipusfeladatok megoldását:
+    - Hány fiú és hány lány van?
+    - Hány cm magas a legnagyobb fiú?
+    - Mi a nevük a legnagyobb fiúknak?
+    - Mekkora a súlya a legkönnyebb lánynak?
+    - Mi a nevük a legkönnyebb lányoknak?
